@@ -1,3 +1,3 @@
-print('Hi Git')
+print('Hi Git from VS Code')
 
-print('Hi from another dev')
+print('Hi Git - edit made in Git')
