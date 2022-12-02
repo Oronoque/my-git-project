@@ -1,6 +1,6 @@
 # My Git Project
 
-I'm in the feature branch.
+My innocent little change...
 
 ## I'm in the feature branch
 
