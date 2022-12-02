@@ -4,3 +4,6 @@ print('Hi Git - edit made in Git')
 
 def hi_there():
     print("hi")
+
+def hi_there():
+    print("hi")   
